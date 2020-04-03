@@ -1,0 +1,727 @@
+
+{
+source: [
+{
+from: "Johns Hopkins CSSE",
+url: "https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6"
+}
+]
+},
+{
+results: [
+{
+country_region: "China",
+confirmed: 80967,
+deaths: 3162,
+recovered: 61653
+},
+{
+country_region: "Italy",
+confirmed: 10149,
+deaths: 631,
+recovered: 724
+},
+{
+country_region: "Iran (Islamic Republic of)",
+confirmed: 9000,
+deaths: 354,
+recovered: 2959
+},
+{
+country_region: "Republic of Korea",
+confirmed: 7755,
+deaths: 54,
+recovered: 247
+},
+{
+country_region: "Spain",
+confirmed: 2026,
+deaths: 47,
+recovered: 136
+},
+{
+country_region: "France",
+confirmed: 1784,
+deaths: 33,
+recovered: 12
+},
+{
+country_region: "Germany",
+confirmed: 1622,
+deaths: 3,
+recovered: 25
+},
+{
+country_region: "US",
+confirmed: 1039,
+deaths: 29,
+recovered: 8
+},
+{
+country_region: "Others",
+confirmed: 696,
+deaths: 6,
+recovered: 40
+},
+{
+country_region: "Switzerland",
+confirmed: 613,
+deaths: 3,
+recovered: 3
+},
+{
+country_region: "Japan",
+confirmed: 581,
+deaths: 12,
+recovered: 101
+},
+{
+country_region: "Norway",
+confirmed: 429,
+deaths: 0,
+recovered: 1
+},
+{
+country_region: "Netherlands",
+confirmed: 382,
+deaths: 4,
+recovered: 0
+},
+{
+country_region: "UK",
+confirmed: 382,
+deaths: 6,
+recovered: 18
+},
+{
+country_region: "Sweden",
+confirmed: 355,
+deaths: 0,
+recovered: 1
+},
+{
+country_region: "Denmark",
+confirmed: 340,
+deaths: 0,
+recovered: 1
+},
+{
+country_region: "Belgium",
+confirmed: 314,
+deaths: 1,
+recovered: 1
+},
+{
+country_region: "Austria",
+confirmed: 206,
+deaths: 0,
+recovered: 4
+},
+{
+country_region: "Bahrain",
+confirmed: 189,
+deaths: 0,
+recovered: 30
+},
+{
+country_region: "Singapore",
+confirmed: 160,
+deaths: 0,
+recovered: 78
+},
+{
+country_region: "Malaysia",
+confirmed: 149,
+deaths: 0,
+recovered: 26
+},
+{
+country_region: "Australia",
+confirmed: 107,
+deaths: 3,
+recovered: 21
+},
+{
+country_region: "Canada",
+confirmed: 93,
+deaths: 2,
+recovered: 12
+},
+{
+country_region: "Greece",
+confirmed: 89,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Iceland",
+confirmed: 81,
+deaths: 0,
+recovered: 1
+},
+{
+country_region: "Israel",
+confirmed: 76,
+deaths: 0,
+recovered: 4
+},
+{
+country_region: "United Arab Emirates",
+confirmed: 74,
+deaths: 0,
+recovered: 12
+},
+{
+country_region: "Kuwait",
+confirmed: 72,
+deaths: 0,
+recovered: 2
+},
+{
+country_region: "Iraq",
+confirmed: 71,
+deaths: 7,
+recovered: 3
+},
+{
+country_region: "Czech Republic",
+confirmed: 63,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Lebanon",
+confirmed: 61,
+deaths: 3,
+recovered: 1
+},
+{
+country_region: "India",
+confirmed: 60,
+deaths: 0,
+recovered: 4
+},
+{
+country_region: "San Marino",
+confirmed: 60,
+deaths: 2,
+recovered: 0
+},
+{
+country_region: "Thailand",
+confirmed: 59,
+deaths: 1,
+recovered: 34
+},
+{
+country_region: "Egypt",
+confirmed: 59,
+deaths: 1,
+recovered: 1
+},
+{
+country_region: "Finland",
+confirmed: 58,
+deaths: 0,
+recovered: 1
+},
+{
+country_region: "Philippines",
+confirmed: 49,
+deaths: 1,
+recovered: 2
+},
+{
+country_region: "Portugal",
+confirmed: 41,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Viet Nam",
+confirmed: 38,
+deaths: 0,
+recovered: 16
+},
+{
+country_region: "Brazil",
+confirmed: 34,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Slovenia",
+confirmed: 34,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Indonesia",
+confirmed: 34,
+deaths: 1,
+recovered: 2
+},
+{
+country_region: "Ireland",
+confirmed: 34,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Romania",
+confirmed: 31,
+deaths: 0,
+recovered: 6
+},
+{
+country_region: "occupied Palestinian territory",
+confirmed: 26,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Poland",
+confirmed: 25,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Qatar",
+confirmed: 24,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Georgia",
+confirmed: 23,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Saudi Arabia",
+confirmed: 20,
+deaths: 0,
+recovered: 1
+},
+{
+country_region: "Russian Federation",
+confirmed: 20,
+deaths: 0,
+recovered: 3
+},
+{
+country_region: "Algeria",
+confirmed: 20,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Argentina",
+confirmed: 19,
+deaths: 1,
+recovered: 0
+},
+{
+country_region: "Pakistan",
+confirmed: 19,
+deaths: 0,
+recovered: 1
+},
+{
+country_region: "Oman",
+confirmed: 18,
+deaths: 0,
+recovered: 9
+},
+{
+country_region: "Ecuador",
+confirmed: 17,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Chile",
+confirmed: 17,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Croatia",
+confirmed: 16,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "South Africa",
+confirmed: 13,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Costa Rica",
+confirmed: 13,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Estonia",
+confirmed: 13,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Albania",
+confirmed: 12,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Hungary",
+confirmed: 12,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Serbia",
+confirmed: 12,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Azerbaijan",
+confirmed: 11,
+deaths: 0,
+recovered: 3
+},
+{
+country_region: "Peru",
+confirmed: 11,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Belarus",
+confirmed: 9,
+deaths: 0,
+recovered: 3
+},
+{
+country_region: "Panama",
+confirmed: 8,
+deaths: 1,
+recovered: 0
+},
+{
+country_region: "Maldives",
+confirmed: 8,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Latvia",
+confirmed: 8,
+deaths: 0,
+recovered: 1
+},
+{
+country_region: "North Macedonia",
+confirmed: 7,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Afghanistan",
+confirmed: 7,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Slovakia",
+confirmed: 7,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Luxembourg",
+confirmed: 7,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Mexico",
+confirmed: 7,
+deaths: 0,
+recovered: 4
+},
+{
+country_region: "Bulgaria",
+confirmed: 6,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Brunei",
+confirmed: 6,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Tunisia",
+confirmed: 6,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Malta",
+confirmed: 6,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Bosnia and Herzegovina",
+confirmed: 5,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "French Guiana",
+confirmed: 5,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "New Zealand",
+confirmed: 5,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Dominican Republic",
+confirmed: 5,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Morocco",
+confirmed: 5,
+deaths: 1,
+recovered: 0
+},
+{
+country_region: "Paraguay",
+confirmed: 5,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Senegal",
+confirmed: 4,
+deaths: 0,
+recovered: 1
+},
+{
+country_region: "Lithuania",
+confirmed: 3,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Cambodia",
+confirmed: 3,
+deaths: 0,
+recovered: 1
+},
+{
+country_region: "Bangladesh",
+confirmed: 3,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Republic of Moldova",
+confirmed: 3,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Moldova",
+confirmed: 3,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Colombia",
+confirmed: 3,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Cyprus",
+confirmed: 3,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Martinique",
+confirmed: 3,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Bolivia",
+confirmed: 2,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Cameroon",
+confirmed: 2,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Burkina Faso",
+confirmed: 2,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Channel Islands",
+confirmed: 2,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Saint Martin",
+confirmed: 2,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Faroe Islands",
+confirmed: 2,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Nigeria",
+confirmed: 2,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Honduras",
+confirmed: 2,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Sri Lanka",
+confirmed: 2,
+deaths: 0,
+recovered: 1
+},
+{
+country_region: "Saint Barthelemy",
+confirmed: 1,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Monaco",
+confirmed: 1,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Jamaica",
+confirmed: 1,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Turkey",
+confirmed: 1,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Mongolia",
+confirmed: 1,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Togo",
+confirmed: 1,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Armenia",
+confirmed: 1,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Ukraine",
+confirmed: 1,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Liechtenstein",
+confirmed: 1,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Andorra",
+confirmed: 1,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Gibraltar",
+confirmed: 1,
+deaths: 0,
+recovered: 1
+},
+{
+country_region: "Bhutan",
+confirmed: 1,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Nepal",
+confirmed: 1,
+deaths: 0,
+recovered: 1
+},
+{
+country_region: "Democratic Republic of the Congo",
+confirmed: 1,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Holy See",
+confirmed: 1,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Jordan",
+confirmed: 1,
+deaths: 0,
+recovered: 0
+},
+{
+country_region: "Mainland China",
+confirmed: 0,
+deaths: 0,
+recovered: 0
+}
+]
+}
